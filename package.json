@@ -1,0 +1,23 @@
+{
+  "name": "daily-coding-problem",
+  "version": "0.0.0",
+  "private": true,
+  "description": "My attempts at some of the daily coding problems in Typescript",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunburdick/daily-coding-problem.git"
+  },
+  "author": "Shaun Burdick <npm@shaunburdick.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunburdick/daily-coding-problem/issues"
+  },
+  "homepage": "https://github.com/shaunburdick/daily-coding-problem#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.10",
+    "@types/tape": "^4.2.32",
+    "tape": "^4.9.1",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.6"
+  }
+}
